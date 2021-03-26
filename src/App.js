@@ -5,7 +5,7 @@ import Banner from "./Components/Banner/Banner";
 import Card from "./Components/Card/Card";
 //import {Name, cardData} from "./apiData";
 import axios from "axios";
-import Footer from './Components/Card/footer';
+
 
 
 
